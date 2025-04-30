@@ -103,3 +103,12 @@ body {
   * {
     transition: all 0.3s ease-in-out;
   }
+  .footer {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 4px;
+    background-color: #FF6F61;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
